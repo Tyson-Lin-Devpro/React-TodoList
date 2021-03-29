@@ -1,3 +1,4 @@
+![image](https://github.com/gn00667340/React-TodoList/blob/master/TodoList.gif)
 React TodoList 待辦事項  
   
 #功能  
