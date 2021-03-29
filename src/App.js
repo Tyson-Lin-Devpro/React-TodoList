@@ -4,7 +4,7 @@ import Form from './components/Form'
 import TodoList from './components/TodoList.js'
 
 
-function App() {
+const App = ()=>{
   //useState涵式，使用hook,宣告[a,b]常數，a為變量名稱，b為重設涵式，後useState(a的預設值)，更改a的值使用b(XXX)修改
   const [inputText, setInputText] = useState('');
   const [todos, setTodos] = useState([]);
