@@ -15,5 +15,3 @@ React TodoList 待辦事項
 。useEffect控制各Component的re-render條件  
 
 ###資料存储在localStorage並利用useEffect提取  
-
-123123
